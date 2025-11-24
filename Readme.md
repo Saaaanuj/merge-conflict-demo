@@ -1,2 +1,2 @@
 # Merge Conflict Demo
-This line is added in featureA
+this line is in both feature a and b.
